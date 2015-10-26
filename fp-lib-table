@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name pad)(type KiCad)(uri "$(KIPRJMOD)/pad.pretty")(options "")(descr ""))
+  (lib (name oshw)(type KiCad)(uri "$(KIPRJMOD)/oshw.pretty")(options "")(descr ""))
+)

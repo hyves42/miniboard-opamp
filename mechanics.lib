@@ -1,0 +1,22 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#
+# HOLE
+#
+DEF HOLE H 0 0 N N 1 F N
+F0 "H" 0 -150 60 H V C CNN
+F1 "HOLE" 0 150 60 H V C CNN
+F2 "hole_2mm" -100 -250 60 H I C CNN
+F3 "" 0 0 60 H V C CNN
+$FPLIST
+ mechanics:hole_2mm
+$ENDFPLIST
+DRAW
+C 0 0 71 0 1 0 N
+P 2 0 1 0  -100 0  100 0 N
+P 2 0 1 0  0 100  0 -100 N
+X ~ 1 0 0 0 R 50 50 1 1 U
+ENDDRAW
+ENDDEF
+#
+#End Library
