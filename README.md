@@ -1,8 +1,8 @@
 miniboard-opamp
 ===============
 
-This is a prototyping board for surfece-mount opamps with the most common footprint.
-It has a surface-mount prototyping to build all common op-amp filter topologies
+This is a prototyping board for most surface-mount op-amp.
+It has a surface-mount prototyping to build all common op-amp filter topologies.
 
 
 Here is what it looks like :
